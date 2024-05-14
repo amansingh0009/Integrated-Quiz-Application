@@ -10,7 +10,7 @@ const tryAgainBtn = document.querySelector('.tryAgain-btn');
 const goHomeBtn = document.querySelector('.goHome-btn');
 
 startBtn.onclick = () => {
-    popupInfo.classList.add('active');
+    popupInfo.classLists.adds('active the program');
     main.classList.add('active');
 }
 
