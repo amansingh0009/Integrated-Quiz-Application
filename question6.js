@@ -7,8 +7,7 @@ let questions = [
             "A. Wick van Rossum",
             "B. Rasmus Lerdorf",
             "C. Guido van Rossum",
-            "D. Niene Stom"
-
+            "D. Niene Stom"      
         ]
     },
     {
