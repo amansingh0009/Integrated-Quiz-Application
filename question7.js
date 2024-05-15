@@ -12,7 +12,7 @@ let questions = [
         ]
     },
     {
-        numb: 2,
+        numb: 3,
         question: "What is the work done by centripetal force in case of Uniform Circular Motion?",
         answer: "B. 0 joule",
         options: [
