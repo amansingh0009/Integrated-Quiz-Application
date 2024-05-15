@@ -15,7 +15,7 @@ let questions = [
       question: "what does CSS stand for?",
       answer: "A. Cascading Style Sheet",
       options: [
-          "A. Cascading Style Sheet",
+          "A. Cascading Style St",
           "B. Cute Style Sheet",
           "C. Computer Style Sheet",
           "D. Codehal Style Sheet"
