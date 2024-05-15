@@ -2,7 +2,7 @@ let questions = [
     {
         numb: 1,
         question: " Which of the following physical quantities do not have any unit of measurement?",
-        answer: "B. Specific gravity",
+        answer: "B. Specific ",
         options: [
             "A. Universal Constant of Gravitation",
             "B. Specific gravity",
