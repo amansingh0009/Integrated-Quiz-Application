@@ -7,8 +7,8 @@ let questions = [
           "A. Hyper Text Markup Language",
           "B. Hyper Text Multi Language",
           "C. Hyper Text Multiple Language",
-          "D. Home Text Multi Language"
-      ]
+          "D. Home Text Multi"
+    
   },
   {
       numb: 2,
